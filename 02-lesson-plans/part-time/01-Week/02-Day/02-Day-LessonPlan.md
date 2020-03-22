@@ -1,6 +1,6 @@
 ## 1.2 Lesson Plan - Git'n Pro with HTML/CSS (6:30 PM) <!--links--> &nbsp; [⬅️](../01-Day/01-Day-LessonPlan.md) &nbsp; [➡️](../03-Day/03-Day-LessonPlan.md)
 
-### Slideshow
+### Slideshow TEST
 
 * This lesson's slides are available on Google Drive here: [01-2 Git'n Pro with HTML/CSS](https://docs.google.com/presentation/d/1SMhFndlbubN_GKG0nO1rdozAE9bmtKfwPjjD0a5ePR4/edit?usp=sharing)
 
